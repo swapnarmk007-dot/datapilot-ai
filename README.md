@@ -172,7 +172,7 @@ Open your browser at `http://localhost:8501`.
 3. Click **"New app"**, select your repository, branch (`main`), and set the main file path to `app.py`.
 4. (Optional) In **Advanced settings > Secrets**, add:
    ```toml
-   GEMINI_API_KEY = "your-api-key"
+   GEMINI_API_KEY = "AQ.Ab8RN6LQcKUODIwofKt9_B2eq_2Qnr7WKVDt9H9CIoVCtS04Qg"
    ```
 5. Click **Deploy!** Your app will be live with a public URL in seconds.
 
@@ -183,11 +183,9 @@ Open your browser at `http://localhost:8501`.
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 ## 🚀 Live Demo
 
-You can try DataPilot AI live directly in this workspace or deploy it to Streamlit Community Cloud:
+👉 **[Open DataPilot AI](https://datapilot-ai-bbcmstjjvkjnyfsd4xbcwv.streamlit.app/)**
 
-```text
-[Open DataPilot AI Live Application]
- [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-DataPilot%20AI-success)](https://datapilot-ai-bbcmstjjvkjnyfsd4xbcwv.streamlit.app/)
+**Live Application:** [DataPilot AI](https://datapilot-ai-bbcmstjjvkjnyfsd4xbcwv.streamlit.app/)
 
 ---
 
