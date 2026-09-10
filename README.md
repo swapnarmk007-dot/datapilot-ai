@@ -17,15 +17,6 @@
 * **Role:** Agentic AI Engineer
 * **Organization:** IPCET Solutions
 * **Email:** Swapnarmk007@gmail.com
-
----
-
-## 🚀 Live Demo
-
-You can try DataPilot AI live directly in this workspace or deploy it to Streamlit Community Cloud:
-
-```text
-[Open DataPilot AI Live Application]
 ```
 
 ---
@@ -190,7 +181,14 @@ Open your browser at `http://localhost:8501`.
 ## 🛡️ License
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+## 🚀 Live Demo
+
+You can try DataPilot AI live directly in this workspace or deploy it to Streamlit Community Cloud:
+
+```text
+[Open DataPilot AI Live Application]
+ [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-DataPilot%20AI-success)](https://datapilot-ai-bbcmstjjvkjnyfsd4xbcwv.streamlit.app/)
 
 ---
 
-**Developed with ❤️ by Swapna V — AI/ML & GenAI Engineer**
+**Developed with ❤️ by Swapna V — Agentic AI Engineer**
